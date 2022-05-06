@@ -1,6 +1,9 @@
 # teste-curso-dio-dominando-ides-java-intellij
 teste intellij
 
+## Badges
+
+Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## License
 
