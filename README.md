@@ -1,5 +1,5 @@
 # teste-curso-dio-dominando-ides-java-intellij
-Test Intellij
+Test Intellij with Java.
 
 ## Badges
 
