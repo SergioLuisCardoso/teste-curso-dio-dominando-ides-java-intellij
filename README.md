@@ -11,6 +11,14 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 **Server:** Node, Express
 
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
