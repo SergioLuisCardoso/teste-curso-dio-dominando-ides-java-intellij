@@ -5,6 +5,12 @@ Test Intellij with Java.
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
 
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
