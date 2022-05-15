@@ -19,6 +19,10 @@ To deploy this project run
   npm run deploy
 ```
 
+## Support
+
+For support, email fake@fake.com or join our Slack channel.
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
